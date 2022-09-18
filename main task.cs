@@ -31,4 +31,6 @@ void PrintArray(string[] array)
 }
 
 NewArray(stringArray1, stringArray2);
+Console.WriteLine(" ");
+Console.WriteLine("Новый массив: ");
 PrintArray(stringArray2);
